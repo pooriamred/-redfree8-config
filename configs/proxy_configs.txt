@@ -18,3 +18,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NzU2NGEwVE45eHpYYk5QVjZYQkRF@104.192.227.16
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUUZqS3JNYUpMYVRPcUZjOHp0ZE41@87.251.79.34:20684#United%20States
 
+vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.nl.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
+
+vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@c.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam
+
+vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@e.nl.cdn.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
+
+vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@nodes.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+
+vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+

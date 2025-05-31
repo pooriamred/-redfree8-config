@@ -79,11 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇳🇱 vless-1ee2ebc3 (The Netherlands)",
-        "🇬🇧 vless-11f3f806 (United Kingdom)",
-        "🇬🇧 vless-6e6449dc (United Kingdom)",
-        "🇩🇪 vless-2c7a15e9 (Germany)",
-        "🇷🇺 vless-e8553765 (Russia)",
+        "🇳🇱 vless-7c9a8027 (The Netherlands)",
+        "🇬🇧 vless-352d4931 (United Kingdom)",
+        "🇬🇧 vless-1004d44e (United Kingdom)",
+        "🇩🇪 vless-5fe1b7fa (Germany)",
+        "🇷🇺 vless-e88ae729 (Russia)",
         "direct"
       ]
     },
@@ -91,11 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇳🇱 vless-1ee2ebc3 (The Netherlands)",
-        "🇬🇧 vless-11f3f806 (United Kingdom)",
-        "🇬🇧 vless-6e6449dc (United Kingdom)",
-        "🇩🇪 vless-2c7a15e9 (Germany)",
-        "🇷🇺 vless-e8553765 (Russia)"
+        "🇳🇱 vless-7c9a8027 (The Netherlands)",
+        "🇬🇧 vless-352d4931 (United Kingdom)",
+        "🇬🇧 vless-1004d44e (United Kingdom)",
+        "🇩🇪 vless-5fe1b7fa (Germany)",
+        "🇷🇺 vless-e88ae729 (Russia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +107,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 vless-1ee2ebc3 (The Netherlands)",
+      "tag": "🇳🇱 vless-7c9a8027 (The Netherlands)",
       "server": "a.nl.maviks.eu",
       "server_port": 8443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
@@ -121,7 +121,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-11f3f806 (United Kingdom)",
+      "tag": "🇬🇧 vless-352d4931 (United Kingdom)",
       "server": "c.nl.cdn.maviks.eu",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
@@ -135,7 +135,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-6e6449dc (United Kingdom)",
+      "tag": "🇬🇧 vless-1004d44e (United Kingdom)",
       "server": "e.nl.cdn.maviks.eu",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
@@ -155,7 +155,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-2c7a15e9 (Germany)",
+      "tag": "🇩🇪 vless-5fe1b7fa (Germany)",
       "server": "nodes.maviks.eu",
       "server_port": 8443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
@@ -169,7 +169,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-e8553765 (Russia)",
+      "tag": "🇷🇺 vless-e88ae729 (Russia)",
       "server": "ru.maviks.eu",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",

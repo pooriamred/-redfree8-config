@@ -79,10 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇬🇧 vless-5995bd08 (United Kingdom)",
-        "🇬🇧 vless-25219444 (United Kingdom)",
-        "🇬🇧 vless-451263c1 (United Kingdom)",
-        "🇬🇧 vless-a22cca8b (United Kingdom)",
+        "🇬🇧 vless-dc183510 (United Kingdom)",
+        "🇬🇧 vless-dd74406a (United Kingdom)",
+        "🇬🇧 vless-a92da273 (United Kingdom)",
+        "🇬🇧 vless-d9395949 (United Kingdom)",
         "direct"
       ]
     },
@@ -90,10 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇬🇧 vless-5995bd08 (United Kingdom)",
-        "🇬🇧 vless-25219444 (United Kingdom)",
-        "🇬🇧 vless-451263c1 (United Kingdom)",
-        "🇬🇧 vless-a22cca8b (United Kingdom)"
+        "🇬🇧 vless-dc183510 (United Kingdom)",
+        "🇬🇧 vless-dd74406a (United Kingdom)",
+        "🇬🇧 vless-a92da273 (United Kingdom)",
+        "🇬🇧 vless-d9395949 (United Kingdom)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +105,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-5995bd08 (United Kingdom)",
+      "tag": "🇬🇧 vless-dc183510 (United Kingdom)",
       "server": "102.177.189.29",
       "server_port": 8880,
       "uuid": "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf",
@@ -125,7 +125,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-25219444 (United Kingdom)",
+      "tag": "🇬🇧 vless-dd74406a (United Kingdom)",
       "server": "102.177.189.29",
       "server_port": 8880,
       "uuid": "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf",
@@ -145,7 +145,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-451263c1 (United Kingdom)",
+      "tag": "🇬🇧 vless-a92da273 (United Kingdom)",
       "server": "102.177.189.29",
       "server_port": 8880,
       "uuid": "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf",
@@ -165,7 +165,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-a22cca8b (United Kingdom)",
+      "tag": "🇬🇧 vless-d9395949 (United Kingdom)",
       "server": "102.177.189.29",
       "server_port": 8880,
       "uuid": "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf",

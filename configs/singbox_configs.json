@@ -79,11 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇦 vless-62ef5715 (Canada)",
-        "🇨🇦 vless-e8636b26 (Canada)",
-        "🇨🇦 vless-95c9ad16 (Canada)",
-        "🇨🇦 vless-8be7b91c (Canada)",
-        "🇨🇦 vless-8562b7b3 (Canada)",
+        "🇨🇦 trojan-a2363a0e (Canada)",
+        "🇨🇦 trojan-d98e3ee0 (Canada)",
+        "🇨🇦 trojan-2ddd5853 (Canada)",
+        "🇨🇦 trojan-4dc3762d (Canada)",
+        "🇨🇦 vless-31ef64eb (Canada)",
         "direct"
       ]
     },
@@ -91,11 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 vless-62ef5715 (Canada)",
-        "🇨🇦 vless-e8636b26 (Canada)",
-        "🇨🇦 vless-95c9ad16 (Canada)",
-        "🇨🇦 vless-8be7b91c (Canada)",
-        "🇨🇦 vless-8562b7b3 (Canada)"
+        "🇨🇦 trojan-a2363a0e (Canada)",
+        "🇨🇦 trojan-d98e3ee0 (Canada)",
+        "🇨🇦 trojan-2ddd5853 (Canada)",
+        "🇨🇦 trojan-4dc3762d (Canada)",
+        "🇨🇦 vless-31ef64eb (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -106,102 +106,77 @@
       "type": "direct"
     },
     {
+      "type": "trojan",
+      "tag": "🇨🇦 trojan-a2363a0e (Canada)",
+      "server": "172.67.134.185",
+      "server_port": 443,
+      "password": "POORIARED",
+      "tls": {
+        "enabled": true,
+        "server_name": "reDfRee8.REDFree8.ir",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
+        "type": "ws"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 trojan-d98e3ee0 (Canada)",
+      "server": "redfree8.redfree8.ir",
+      "server_port": 443,
+      "password": "POORIARED",
+      "tls": {
+        "enabled": true,
+        "server_name": "ReDFreE8.ReDfREe8.iR",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 trojan-2ddd5853 (Canada)",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "password": "POORIARED",
+      "tls": {
+        "enabled": true,
+        "server_name": "rEdfRee8.redfREE8.IR",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 trojan-4dc3762d (Canada)",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "password": "POORIARED",
+      "tls": {
+        "enabled": true,
+        "server_name": "rEdfRee8.redfREE8.IR",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
       "type": "vless",
-      "tag": "🇨🇦 vless-62ef5715 (Canada)",
-      "server": "104.18.26.90",
+      "tag": "🇨🇦 vless-31ef64eb (Canada)",
+      "server": "172.67.134.185",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "reedfree8mahsang2.redorg.ir",
+        "server_name": "RedFReE8.reDFrEE8.Ir",
         "insecure": true
       },
       "transport": {
-        "path": "/Telegram🇨🇳",
-        "headers": {
-          "Host": "reedfree8mahsang2.redorg.ir"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-e8636b26 (Canada)",
-      "server": "104.18.26.90",
-      "server_port": 8880,
-      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "104.18.26.90",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/Telegram🇨🇳",
-        "headers": {
-          "Host": "reedfree8mahsang2.redorg.ir"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-95c9ad16 (Canada)",
-      "server": "104.26.7.89",
-      "server_port": 443,
-      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "reedfree8mahsang2.redorg.ir",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/Telegram🇨🇳",
-        "headers": {
-          "Host": "reedfree8mahsang2.redorg.ir"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-8be7b91c (Canada)",
-      "server": "172.67.73.216",
-      "server_port": 443,
-      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "reedfree8mahsang2.redorg.ir",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/Telegram🇨🇳",
-        "headers": {
-          "Host": "reedfree8mahsang2.redorg.ir"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 vless-8562b7b3 (Canada)",
-      "server": "172.67.73.216",
-      "server_port": 80,
-      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "172.67.73.216",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/Telegram🇨🇳",
-        "headers": {
-          "Host": "reedfree8mahsang2.redorg.ir"
-        },
         "type": "ws"
       }
     }

@@ -79,11 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇦 trojan-256e31cd (Canada)",
-        "🇨🇦 trojan-9cee721a (Canada)",
-        "🇨🇦 trojan-df16cc56 (Canada)",
-        "🇨🇦 trojan-d8e11206 (Canada)",
-        "🇨🇦 vless-f45fda7b (Canada)",
+        "🇨🇦 trojan-daea9f90 (Canada)",
+        "🇨🇦 trojan-a8f6aab2 (Canada)",
+        "🇨🇦 trojan-98f7bbaa (Canada)",
+        "🇨🇦 trojan-949f163e (Canada)",
+        "🇨🇦 vless-23a9dfb5 (Canada)",
         "direct"
       ]
     },
@@ -91,11 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 trojan-256e31cd (Canada)",
-        "🇨🇦 trojan-9cee721a (Canada)",
-        "🇨🇦 trojan-df16cc56 (Canada)",
-        "🇨🇦 trojan-d8e11206 (Canada)",
-        "🇨🇦 vless-f45fda7b (Canada)"
+        "🇨🇦 trojan-daea9f90 (Canada)",
+        "🇨🇦 trojan-a8f6aab2 (Canada)",
+        "🇨🇦 trojan-98f7bbaa (Canada)",
+        "🇨🇦 trojan-949f163e (Canada)",
+        "🇨🇦 vless-23a9dfb5 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +107,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-256e31cd (Canada)",
+      "tag": "🇨🇦 trojan-daea9f90 (Canada)",
       "server": "172.67.134.185",
       "server_port": 443,
       "password": "POORIARED",
@@ -124,7 +124,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-9cee721a (Canada)",
+      "tag": "🇨🇦 trojan-a8f6aab2 (Canada)",
       "server": "redfree8.redfree8.ir",
       "server_port": 443,
       "password": "POORIARED",
@@ -138,7 +138,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-df16cc56 (Canada)",
+      "tag": "🇨🇦 trojan-98f7bbaa (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "password": "POORIARED",
@@ -152,7 +152,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-d8e11206 (Canada)",
+      "tag": "🇨🇦 trojan-949f163e (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "password": "POORIARED",
@@ -166,7 +166,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-f45fda7b (Canada)",
+      "tag": "🇨🇦 vless-23a9dfb5 (Canada)",
       "server": "172.67.134.185",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",

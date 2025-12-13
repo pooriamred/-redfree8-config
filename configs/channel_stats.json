@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T17:21:24.673086+00:00",
+  "timestamp": "2025-12-13T18:32:02.376514+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -72,23 +72,23 @@
     },
     {
       "url": "https://t.me/s/redfree8",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 5,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.31,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 99.54,
-        "last_success": "2025-12-13T17:21:24.672485+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 1,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 4,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
